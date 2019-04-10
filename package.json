@@ -1,0 +1,20 @@
+{
+  "name": "brackets-copy-json-path",
+  "title": "Copy JSON Path",
+  "version": "1.0.0",
+  "description": "Copies JSON path of current cursor position. Only works if document contains valid JSON.",
+  "engines": {
+    "brackets": ">=1.7.0"
+  },
+  "homepage": "https://github.com/armin-pfaeffle/brackets-copy-json-path",
+  "bugs": "https://github.com/armin-pfaeffle/brackets-copy-json-path/issues",
+  "repository": "armin-pfaeffle/brackets-copy-json-path",
+  "author": "Armin Pfäffle <mail@armin-pfaeffle.de> (https://github.com/armin-pfaeffle)",
+  "license": "MIT",
+  "keywords": [
+    "brackets-extension",
+    "json",
+    "json path",
+    "copy"
+  ]
+}
